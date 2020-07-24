@@ -63,7 +63,7 @@ Windows](Doc2.0/Windows.html#Windows_swig_exe).
 1.  The latest development (master) version of SWIG can be retrieved
     using:
 
-         $ git clone https://github.com/swig/swig.git
+        $ git clone https://github.com/swig/swig.git
             
 
     You can also use Github as if it was a Subversion server, see
@@ -71,29 +71,29 @@ Windows](Doc2.0/Windows.html#Windows_swig_exe).
     Subversion](https://github.com/blog/1178-collaborating-on-github-with-subversion).
     The following should get you going with the latest:
 
-         $ svn checkout https://github.com/swig/swig/trunk swig
+        $ svn checkout https://github.com/swig/swig/trunk swig
             
 
 2.  To build SWIG, follow the steps below and replace `/some/directory`
     with a directory that you have permission to write to:
 
-         $ cd swig
-            $ ./autogen.sh
-            $ ./configure --prefix=/some/directory
-            $ make
-            $ make install
+        $ cd swig
+        $ ./autogen.sh
+        $ ./configure --prefix=/some/directory
+        $ make
+        $ make install
             
 
 3.  To check the build, run the tests:
 
-         $ make -k check 
+        $ make -k check 
 
     This could take up to an hour or longer. If you are interested in a
     particular language, just check the examples and test-suite for that
     language. For example, the Python tests:
 
-         $ make check-python-examples
-            $ make check-python-test-suite
+        $ make check-python-examples
+        $ make check-python-test-suite
             
 
     More details on the [SWIG
