@@ -1,4 +1,11 @@
-# What is Swig - Executive Summary
+---
+layout: default
+title: What is SWIG
+nav_order: 2
+last_modified_date: 2019-04-18T11:21
+---
+
+# Executive Summary
 
 SWIG is an interface compiler that connects programs written in C and
 C++ with scripting languages such as Perl, Python, Ruby, and Tcl. It
@@ -105,5 +112,3 @@ certainly want to get the latest version here).
 
 Feedback and questions concerning this site should be posted to the
 [swig-devel](mail.html) mailing list.
-
-Last modified : Thu Apr 18 20:05:49 2019

@@ -1,3 +1,10 @@
+---
+layout: default
+title: Compatibility
+nav_order: 3
+last_modified_date: 2019-04-18T11:21:35
+---
+
 # Compatibility
 
 SWIG is known to work on the following platforms :

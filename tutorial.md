@@ -1,3 +1,10 @@
+---
+layout: default
+title: Tutorial
+nav_order: 5
+last_modified_date: 2019-04-18T20:11:49
+---
+
 # Tutorial
 
 So you want to get going in a hurry? To illustrate the use of SWIG,
