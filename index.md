@@ -139,8 +139,3 @@ Release summary:
 - Language improvements and bug fixes for C\#, Go, Java, Lua, Python, R.
 
 [More news](news.php)
-
-------------------------------------------------------------------------
-
-Feedback and questions concerning this site should be posted to the
-[swig-devel](mail.html) mailing list.

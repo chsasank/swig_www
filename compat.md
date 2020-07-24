@@ -80,10 +80,3 @@ going to be very useful). SWIG does not depend upon any of the supported
 scripting languages for its own compilation. Finally, although SWIG is
 partly written in C++, a C++ compiler is not required to use SWIG\--it
 works just fine with both ISO C and C++.
-
-------------------------------------------------------------------------
-
-Feedback and questions concerning this site should be posted to the
-[swig-devel](mail.html) mailing list.
-
-Last modified : Tue Apr 16 19:43:02 2019

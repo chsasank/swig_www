@@ -120,7 +120,7 @@ SWIG-3.0.7 release summary:
 *Add support for Octave-4.0.0.
 * Remove potential Android security exploit in generated Java
 classes.
-\* Minor new features and bug fixes.
+* Minor new features and bug fixes.
 
 
 **2015/07/05** - [SWIG-3.0.6 released](https://sourceforge.net/p/swig/news/2015/07/swig-306-released/)
@@ -830,13 +830,13 @@ Perl modules
 now been announced. SWIG has managed to get four slots and we have
 chosen the following four projects/students:
 
-\* \"SWIG\'s Python 3.0 Backend\" - Haoyu Bai tutored by Richard
+* \"SWIG\'s Python 3.0 Backend\" - Haoyu Bai tutored by Richard
 Boulton
-\* \"C target language backend\" - Maciej Drwal tutored by William
+* \"C target language backend\" - Maciej Drwal tutored by William
 Fulton
-\* \"Comment \'Translator\' for SWIG\" - Cheryl Marie Foil tutored
+* \"Comment \'Translator\' for SWIG\" - Cheryl Marie Foil tutored
 by Olly Betts
-\* \"Support for generating COM wrappers\" - Jan Jezabek tutored by
+* \"Support for generating COM wrappers\" - Jan Jezabek tutored by
 Ian Appru
 
 The competition was tough and although it was difficult choosing the
@@ -887,9 +887,3 @@ a hundred bug fixes and improvements to most language modules.
 
 
 \<\< [Full News Archives](https://sourceforge.net/p/swig/news/) \>\>
-
-------------------------------------------------------------------------
-
-Feedback and questions concerning this site should be posted to the
-[swig-devel](mail.html) mailing list.
-

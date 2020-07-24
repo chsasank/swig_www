@@ -112,8 +112,3 @@ last_modified_date: 2019-04-29T07:38:15
     . Presented at Supercomputing\'96. This paper describes the
     application that motivated the development of SWIG. (See why SWIG
     was originally developed).
-
-------------------------------------------------------------------------
-
-Feedback and questions concerning this site should be posted to the
-[swig-devel](mail.html) mailing list.

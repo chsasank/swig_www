@@ -108,10 +108,3 @@ hierarchies, template instantiations, and more. Features include:
 -   Extensive diagnostics (error/warning messages including fine grained
     warning suppression).
 -   Extended SWIG macro handling.
-
-------------------------------------------------------------------------
-
-Feedback and questions concerning this site should be posted to the
-[swig-devel](mail.html) mailing list.
-
-Last modified : Tue Apr 16 19:06:49 2019

@@ -325,8 +325,3 @@ Type "help", "copyright", "credits" or "license" for more information.
 >>> b.second
 8
 ```
-
-------------------------------------------------------------------------
-
-Feedback and questions concerning this site should be posted to the
-[swig-devel](mail.html) mailing list.
