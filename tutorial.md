@@ -1,4 +1,4 @@
-![Tutorial](images/tutorial.png)
+# Tutorial
 
 So you want to get going in a hurry? To illustrate the use of SWIG,
 suppose you have some C functions you want added to Tcl, Perl, Python,

@@ -1,3 +1,10 @@
+---
+layout: default
+title: Home
+nav_order: 1
+last_modified_date: 2019-04-18T20:11:49
+---
+
 # Welcome to SWIG
 
 SWIG is a software development tool that connects programs written in C
@@ -137,5 +144,3 @@ Release summary:
 
 Feedback and questions concerning this site should be posted to the
 [swig-devel](mail.html) mailing list.
-
-Last modified : Thu Apr 18 20:11:49 2019

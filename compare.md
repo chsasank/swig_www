@@ -1,5 +1,4 @@
-SWIG Features
--------------
+# SWIG Features
 
 This information is based on the SWIG-4.0.0 release.
 
